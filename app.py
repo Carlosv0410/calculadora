@@ -1,6 +1,6 @@
 import streamlit as st 
 
-st.title('Cálculadora')
+st.title('Calculadora')
 
 st.sidebar.title('Parámetros')
 
